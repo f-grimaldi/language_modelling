@@ -1,0 +1,2 @@
+﻿FILE TOO BIG FOR GIT.
+Download Glove Word2Vec Model and use the 50features for each word version

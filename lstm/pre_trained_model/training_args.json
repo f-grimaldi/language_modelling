@@ -1,0 +1,12 @@
+{
+    "datasetpath": "lotr.txt",
+    "embeddingpath": "glove.6B\\glove.6B.50d.txt",
+    "crop_len": 7,
+    "hidden_units": 256,
+    "layers_num": 2,
+    "dropout_prob": 0.3,
+    "batchnumber": 80,
+    "num_epochs": 1101,
+    "verbose": null,
+    "out_dir": null
+}
